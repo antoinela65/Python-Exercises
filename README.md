@@ -19,3 +19,11 @@ The exercises in this repository demonstrate my skills in Python, including:
 - Functions and Modules: Ability to write reusable code with functions, lambda expressions, and organized modules.
 - File I/O: Experience with reading, writing, and manipulating files, such as CSVs and text files.
 
+📝 ***Exercises and Solutions***
+
+Each exercise includes:
+
+- A problem statement outlining the task.
+- Sample input and output to guide expectations.
+- Comments explaining key parts of the code to clarify logic.
+
